@@ -2,7 +2,7 @@
 title: Welcome to OrangeHRM
 linkTitle: OrangeHRM
 menu: {main: {weight: 20}}
-weight: 20
+weight: 10
 ---
 
 **OrangeHRM** offers a comprehensive HR management system to suit all of your business HR needs which can also be customized according to your requirements.

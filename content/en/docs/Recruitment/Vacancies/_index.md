@@ -1,6 +1,7 @@
 ---
 title: Vacancy
 description: A vacancy refers to an unfilled position or job opening within an organization.
+weight: 50
 ---
 
 

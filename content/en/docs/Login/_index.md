@@ -1,6 +1,7 @@
 ---
 title: Log In
 description: To access OragneHRM homepage, login is required.
+weight: 20
 ---
 
 ### Log In
