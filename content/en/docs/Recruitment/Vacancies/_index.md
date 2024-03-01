@@ -14,7 +14,7 @@ In this section, we have three section:
 3. **Vacancies list** - all listed vacancy is listed here
 
 
-![alt text](/vacancy.png "Vacancy")  
+![](/vacancy.png "Vacancy")  
 
 ### Vacancies search
 
